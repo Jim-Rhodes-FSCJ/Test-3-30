@@ -1,4 +1,10 @@
+//My comment
 print("This is the first line")
+
+print("This is an additional line.")
+
 print("This is the second line")
 print("This is line 3")
 print("This is line 4")
+
+print("This program is over!")
